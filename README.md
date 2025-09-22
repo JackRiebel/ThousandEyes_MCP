@@ -1,6 +1,6 @@
 # ThousandEyes Endpoint MCP
 
-A Model Context Protocol (MCP) server for Cisco ThousandEyes Endpoint Agents API (v7.0.62). Based on the [Catalyst Center MCP design](https://github.com/JackRiebel/Catalyst_Center_MCP), it provides tools for querying, updating, and managing endpoint agents.
+A Model Context Protocol (MCP) server for Cisco ThousandEyes Endpoint Agents API (v7.0.62). It provides tools for querying, updating, and managing endpoint agents.
 
 **Disclaimer**: For development/POC use. Not intended for production without security hardening.
 
